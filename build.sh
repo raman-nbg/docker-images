@@ -1,0 +1,1 @@
+docker build -f gcp-terraform.dockerfile -t ramannbg/gcp-terraform:latest .

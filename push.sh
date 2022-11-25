@@ -1,0 +1,1 @@
+docker push ramannbg/gcp-terraform:latest
